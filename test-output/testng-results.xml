@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="33593" started-at="2018-06-27T13:01:26Z" finished-at="2018-06-27T13:02:00Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="33593" started-at="2018-06-27T13:01:26Z" finished-at="2018-06-27T13:02:00Z">
+      <class name="testAkademija.CheckPriceTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testAkademija.CheckPriceTest@42d80b78]" name="setUp" is-config="true" duration-ms="3663" started-at="2018-06-27T16:01:26Z" finished-at="2018-06-27T16:01:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="data()[pri:0, instance:testAkademija.CheckPriceTest@42d80b78]" name="data" is-config="true" duration-ms="1650" started-at="2018-06-27T16:01:30Z" finished-at="2018-06-27T16:01:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- data -->
+        <test-method status="PASS" signature="testCheckPrice(models.ShopItem)[pri:0, instance:testAkademija.CheckPriceTest@42d80b78]" name="testCheckPrice" duration-ms="9634" started-at="2018-06-27T16:01:31Z" data-provider="items" finished-at="2018-06-27T16:01:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[models.ShopItem@2fc6f97f]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCheckPrice -->
+        <test-method status="PASS" signature="testCheckPrice(models.ShopItem)[pri:0, instance:testAkademija.CheckPriceTest@42d80b78]" name="testCheckPrice" duration-ms="8797" started-at="2018-06-27T16:01:41Z" data-provider="items" finished-at="2018-06-27T16:01:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[models.ShopItem@232a7d73]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCheckPrice -->
+        <test-method status="PASS" signature="testCheckPrice(models.ShopItem)[pri:0, instance:testAkademija.CheckPriceTest@42d80b78]" name="testCheckPrice" duration-ms="9200" started-at="2018-06-27T16:01:50Z" data-provider="items" finished-at="2018-06-27T16:01:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[models.ShopItem@6d9f7a80]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCheckPrice -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:testAkademija.CheckPriceTest@42d80b78]" name="closeBrowser" is-config="true" duration-ms="623" started-at="2018-06-27T16:01:59Z" finished-at="2018-06-27T16:02:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- testAkademija.CheckPriceTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

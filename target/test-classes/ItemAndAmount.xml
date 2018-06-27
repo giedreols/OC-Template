@@ -1,0 +1,14 @@
+<list>
+  <models.ShopItem>
+    <name>Palm Treo Pro</name>
+    <amount>2</amount>
+  </models.ShopItem>
+  <models.ShopItem>
+    <name>Samsung Galaxy Tab 10.1</name>
+    <amount>2</amount>
+  </models.ShopItem>
+  <models.ShopItem>
+    <name>HP LP3065</name>
+    <amount>2</amount>
+  </models.ShopItem>
+</list>
